@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ffdca3d994f634c3e5cdcf9b",
+  "owner": "tkrqemkkn",
+  "repo": "page-60afa9ec5ca265e0350bb659",
+  "title": "小火箭节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "60afa9ec5ca265e0350bb659",
+      "a": "小火箭节点",
+      "b": "",
+      "entity": "小火箭节点",
+      "brand": "小火箭节点",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5f8cd45d5734baab85f1f188fc952bcd5cb7a299ea3907ad73b4c94525a688dd",
+      "content": {
+        "keyword1": "小火箭节点",
+        "keyword2": "",
+        "primary_entity": "小火箭节点",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭节点提供专业VPN加速服务，基础版、旗舰版、团队版多种套餐可选。支持多设备在线，解锁流媒体，IPLC线路优化。官方网站可下载客户端，安全稳定网络加速。",
+          "AI_DESCRIPTION": "小火箭节点提供专业VPN加速服务，基础版、旗舰版、团队版多种套餐可选。支持多设备在线，解锁流媒体，IPLC线路优化。官方网站可下载客户端，安全稳定网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\n* { box-sizing: border-box; }\nbody {\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n  background-color: #f8f5f2;\n  color: #333;\n  line-height: 1.7;\n  margin: 0;\n  padding: 0;\n}\nheader {\n  background: #fff;\n  box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n  position: sticky;\n  top: 0;\n  z-index: 10;\n}\nnav {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 15px 20px;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n.logo {\n  font-size: 1.8em;\n  font-weight: bold;\n  color: #ff6b6b;\n}\nnav a {\n  color: #333;\n  text-decoration: none;\n  margin-left: 20px;\n}\nmain {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 20px;\n}\nh1 {\n  color: #ff6b6b;\n  text-align: center;\n  font-size: 2.8em;\n  margin-bottom: 20px;\n}\nsection {\n  margin-bottom: 50px;\n}\nh2 {\n  color: #333;\n  font-size: 2em;\n  border-bottom: 2px solid #ff6b6b;\n  padding-bottom: 10px;\n  margin-bottom: 20px;\n}\n.cards {\n  display: grid;\n  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n  gap: 20px;\n}\n.card {\n  background: #fff;\n  border-radius: 12px;\n  padding: 25px;\n  box-shadow: 0 5px 15px rgba(0,0,0,0.08);\n  transition: transform 0.3s;\n}\n.card:hover {\n  transform: translateY(-5px);\n}\n.card.featured {\n  border: 3px solid #ff6b6b;\n  position: relative;\n}\n.card.featured::before {\n  content: \"推荐\";\n  position: absolute;\n  top: -12px;\n  right: 25px;\n  background: #ff6b6b;\n  color: #fff;\n  padding: 6px 16px;\n  border-radius: 20px;\n  font-size: 0.9em;\n  font-weight: bold;\n}\nul {\n  list-style: none;\n  padding: 0;\n}\nul li {\n  padding: 8px 0;\n  border-bottom: 1px dashed #eee;\n}\nbutton {\n  background: #ff6b6b;\n  color: #fff;\n  border: none;\n  padding: 14px 32px;\n  font-size: 1.1em;\n  border-radius: 6px;\n  cursor: pointer;\n  margin: 10px;\n  transition: background 0.3s;\n}\nbutton:hover {\n  background: #e65a5a;\n}\nfooter {\n  background: #fff;\n  padding: 30px;\n  text-align: center;\n  color: #666;\n  font-size: 0.9em;\n}\n@media (max-width: 768px) {\n  .cards {\n    grid-template-columns: 1fr;\n  }\n  h1 {\n    font-size: 2.2em;\n  }\n  section {\n    padding: 20px;\n  }\n}\ndetails {\n  background: #fff;\n  border-radius: 8px;\n  margin-bottom: 15px;\n  overflow: hidden;\n  box-shadow: 0 2px 5px rgba(0,0,0,0.05);\n}\nsummary {\n  padding: 18px;\n  font-weight: bold;\n  cursor: pointer;\n  list-style: none;\n}\nsummary::after {\n  content: \"▼\";\n  float: right;\n  transition: transform 0.3s;\n}\ndetails[open] summary::after {\n  transform: rotate(180deg);\n}\ndetails summary {\n  background: #f8f5f2;\n}\ndetails > div {\n  padding: 18px;\n  border-top: 1px solid #eee;\n}\n</style>\n\n\n<header>\n<nav>\n<div class=\"logo\">小火箭节点</div>\n<div>\n<a href=\"#\">首页</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#download\">下载</a>\n<a href=\"#faq\">FAQ</a>\n</div>\n</nav>\n</header>\n<main>\n<h1>小火箭节点</h1>\n<section>\n<h2>高速VPN加速，畅享全球网络</h2>\n<p>小火箭节点为您提供稳定、高速的VPN服务，支持多种节点池和线路优化。无论在家办公、游戏娱乐还是海外访问，都能轻松突破网络限制。</p>\n\n\n</section>\n<section id=\"plans\">\n<h2>套餐对比</h2>\n<div class=\"cards\">\n<div class=\"card\">\n<h3>基础版</h3>\n<p>¥15/月 | 按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</div>\n<div class=\"card featured\">\n<h3>旗舰版</h3>\n<p>¥35/月 | 按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</div>\n<div class=\"card\">\n<h3>团队版</h3>\n<p>¥85/月 | 按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</div>\n</div>\n</section>\n<section id=\"intro\">\n<h2>品牌简介</h2>\n<p>小火箭节点致力于为用户提供高质量的VPN加速服务。我们精心筛选节点，提供稳定可靠的网络连接，帮助您在任何场景下获得最佳体验。无论是日常上网、视频观看还是游戏竞技，我们都能满足您的需求。</p>\n</section>\n<section id=\"scenarios\">\n<h2>使用场景</h2>\n<div class=\"cards\">\n<div class=\"card\">\n<h3>游戏加速</h3>\n<p>IPLC专线优化，低延迟连接，畅玩在线游戏，无卡顿。</p>\n</div>\n<div class=\"card\">\n<h3>流媒体解锁</h3>\n<p>支持Netflix、Disney+等多平台原生解锁，尽享高清内容。</p>\n</div>\n<div class=\"card\">\n<h3>海外购物</h3>\n<p>安全访问亚马逊、eBay等海外平台，快速结算。</p>\n</div>\n</div>\n</section>\n<section id=\"guide\">\n<h2>操作说明</h2>\n<ol>\n<li>访问官方网站下载客户端</li>\n<li>注册账号并完成验证</li>\n<li>选择合适的套餐进行订阅</li>\n<li>登录后选择节点连接</li>\n<li>享受高速加速服务</li>\n</ol>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>小火箭节点是什么？</summary>\n<p>小火箭节点是一款专业的VPN加速器，提供高速节点和稳定连接，帮助用户突破网络限制，加速下载和浏览。</p>\n</details>\n<details>\n<summary>如何选择套餐？</summary>\n<p>基础版适合个人使用，旗舰版适合需要流媒体解锁和游戏加速的用户，团队版适合企业或多设备用户。</p>\n</details>\n<details>\n<summary>支持哪些设备？</summary>\n<p>基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。</p>\n</details>\n<details>\n<summary>如何下载客户端？</summary>\n<p>请访问官方网站，点击下载页面获取最新版本客户端。</p>\n</details>\n<details>\n<summary>支持流媒体解锁吗？</summary>\n<p>旗舰版及以上套餐支持全节点原生流媒体解锁，如Netflix等。</p>\n</details>\n</section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<footer>\n<p>© 2024 小火箭节点. 所有权利保留.</p>\n<p>友情链接: <a href=\"#\">官网</a> | <a href=\"#\">下载</a></p>\n</footer>\n\n",
+          "hash": "a2e0054a8554bfafdf899fbafb1e929bbe45dc4b474c16319e267a4cf2541054",
+          "seo": {
+            "title": "小火箭节点 - VPN 加速器 官网下载 | 高速节点",
+            "keywords": "小火箭节点,VPN加速器,机场节点,梯子,加速器,客户端下载,官网下载",
+            "description": "小火箭节点提供专业VPN加速服务，基础版、旗舰版、团队版多种套餐可选。支持多设备在线，解锁流媒体，IPLC线路优化。官方网站可下载客户端，安全稳定网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "u4847x.cn",
+    "host": "p-cededc9945.u4847x.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "e2570c22798f979cd8aa9fef4654065ad8596c50cdbaa5d6f01deaab57257f29",
+    "sitemap.xml": "a00af6edd88a95624b5405a88bd85148d0883cfd63767378acc9d3eba5860005",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5a7bd84949104bb7697933bef30d6a444221ed7fa5f746002a7a1fe9e7bd4dec",
+    "robots.txt": "b065d57684c94db32433bd971c534aeb35345d1fbd425d32f88ae486ea1ae7e8",
+    "f8195b6aef1c49410b9ce3b9b3df9d1a.txt": "c2754bbddf68c86873409aa1ee6ecbebf2074996413bbd3272416b25f8c377fe"
+  },
+  "revision": "25fcdf3014da7617461aca8ddb8b667775a9e173983e9efbedc7581531557bf1"
+}
